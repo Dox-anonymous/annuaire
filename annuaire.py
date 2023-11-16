@@ -2,7 +2,7 @@ import getpass
 import os
 
 ADMIN_USERNAME = "admin"
-ADMIN_PASSWORD = "tom123"
+ADMIN_PASSWORD = "adminpass"
 
 def inscription():
     print("Bienvenue! Veuillez vous inscrire.")
